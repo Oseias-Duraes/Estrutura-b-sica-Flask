@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf6ef15c-3dec-4258-b2c8-87df2a0386f4" name="Changes" comment="Esturutura basica Flask">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/financeiro.html" beforeDir="false" />
+    <list default="true" id="bf6ef15c-3dec-4258-b2c8-87df2a0386f4" name="Changes" comment="Estrutura básica Flask">
+      <change beforePath="$PROJECT_DIR$/templates/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/homepage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +93,35 @@
       <option name="project" value="LOCAL" />
       <updated>1656086864829</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Barbearia Oficial">
+      <created>1656087917861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656087917861</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Barbearia Oficial">
+      <created>1656087971342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656087971342</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Estrutura básica Flask">
+      <created>1656088111083</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656088111083</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Estrutura básica Flask">
+      <created>1656088173923</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656088173923</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,7 +137,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Esturutura basica Flask" />
-    <option name="LAST_COMMIT_MESSAGE" value="Esturutura basica Flask" />
+    <MESSAGE value="Barbearia Oficial" />
+    <MESSAGE value="Estrutura básica Flask" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estrutura básica Flask" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
