@@ -8,5 +8,5 @@ def hello ():
 
 @app.route ('/financeiro')
 def financeiro():
-    return render_template ("contatos.html")
+    return render_template ("financeiro.html")
 app.run(debug = True)
