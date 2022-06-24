@@ -6,5 +6,7 @@ app = Flask(__name__)
 def hello ():
     return 'Hello, World'
 
-app.run()
-
+@app.route ('/financeiro')
+def financeiro():
+    return render_template ("contatos.html")
+app.run(debug = True)
